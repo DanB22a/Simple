@@ -1,0 +1,6 @@
+# simple Python program
+s = "this is a string"
+i = 2 # integer
+f = 22/7.0  # float
+print(s)
+print(" Int = " + str(i) + " Float = " + str(f))
